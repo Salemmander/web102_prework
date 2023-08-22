@@ -30,7 +30,7 @@ GIF created with LiceCap
 
 ## Notes
 
-* The spread and deconstructor was new to me I was unawware that we could access items like that
+* The spread and deconstructor was new to me I was unaware that we could access items like that
 
 ## License
 
